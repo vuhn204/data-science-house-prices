@@ -27,4 +27,4 @@ requirements.txt
 - seaborn
 
 ## Status
-Project started — dataset exploration coming next.
+Project started - dataset exploration coming next.
